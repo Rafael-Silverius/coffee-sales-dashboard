@@ -2,83 +2,84 @@
 
 ## Overview
 
-An interactive Excel dashboard for analyzing coffee shop sales data. The project uses Excel's data analysis and visualization features to explore sales performance across products, time periods, and customer ordering patterns.
+An interactive sales dashboard built in Microsoft Excel to analyze coffee shop order data and explore sales performance over time.
 
-The dashboard was developed as part of my journey toward becoming a Data Analyst, providing practical experience with data organization, reporting, and interactive dashboard design.
+The dashboard provides a visual overview of sales trends, coffee product performance, and order distribution. It uses PivotTables, PivotCharts, and interactive slicers to make it easier to explore the data and identify patterns.
 
 ## Dashboard Preview
 
-![Coffee Orders Dashboard]
 <img width="1385" height="640" alt="image" src="https://github.com/user-attachments/assets/e4e4f7da-3166-488e-ba04-3278fa95a8b6" />
 
+## Dashboard Features
+
+- **Sales Over Time:** Track sales trends and compare performance across different coffee products.
+- **Sales by Coffee Type:** Compare sales across Arabica, Excelsa, Liberica, and Robusta.
+- **Sales by Size:** Analyze sales distribution across different coffee sizes.
+- **Interactive Filters:** Filter the dashboard by order date, roast type, size, loyalty card status, and other available categories.
+- **Dynamic Visualizations:** Explore the data through PivotCharts that respond to the selected filters.
 
 ## Tools & Skills
 
-- **Microsoft Excel**
+- Microsoft Excel
 - PivotTables and PivotCharts
 - Interactive slicers and filters
-- Data analysis and aggregation
-- Sales trend visualization
-- Dashboard design and formatting
 - Excel formulas and lookup functions
+- Sales data analysis
+- Data visualization and dashboard design
 
 ## Business Questions
 
-The dashboard helps explore questions such as:
+This dashboard can help explore questions such as:
 
-- How do sales change over time?
-- Which coffee products perform best?
-- How does sales performance vary across different categories?
-- Are there seasonal patterns in customer orders?
-- Which periods have lower sales activity?
-
-## Key Features
-
-- Interactive dashboard with slicers for filtering data
-- Charts for exploring sales trends and product performance
-- Summary views of coffee order data
-- Dynamic analysis through PivotTables and PivotCharts
-- Organized layout designed to make sales information easier to interpret
+- How do coffee sales change over time?
+- Which coffee types generate the highest sales?
+- How does sales performance vary by coffee size?
+- Are there seasonal patterns in sales?
+- How do different roast types and customer segments affect sales performance?
+- How does sales activity change when filtering by loyalty card status?
 
 ## Dataset
 
-The project uses coffee orders data containing information about orders, products, and sales.
+The dataset contains coffee order information, including order dates, coffee types, roast types, sizes, and other product and customer attributes.
 
 **Data source:** https://github.com/mochen862/excel-project-coffee-sales
 
 ## How to Use
 
-1. Download or clone this repository.
-2. Open `coffee-sales-dashboard.xlsx` in Microsoft Excel.
-3. Use the available slicers and filters to explore the data.
-4. Interact with the charts to investigate sales patterns and product performance.
+1. Download `coffee-sales-dashboard.xlsx` from this repository.
+2. Open the workbook in Microsoft Excel.
+3. Use the slicers and filters to select the date range and categories you want to analyze.
+4. Explore the charts to compare sales trends and product performance.
 
-*Microsoft Excel desktop is recommended for the full interactive experience.*
+Microsoft Excel desktop is recommended for the full interactive experience.
 
 ## What I Learned
 
 Through this project, I practiced:
 
-- Organizing and analyzing sales data in Excel
-- Summarizing data with PivotTables
-- Visualizing trends using PivotCharts
-- Creating interactive dashboards with slicers
-- Designing a dashboard that communicates business information clearly
+- Creating PivotTables to summarize sales data
+- Building PivotCharts to visualize business metrics
+- Using slicers to create interactive reports
+- Applying Excel lookup functions to retrieve product information
+- Organizing dashboard elements into a clear, user-friendly layout
+- Presenting sales data to support business analysis
 
 ## Future Improvements
 
-- Add more business KPIs, such as total revenue, order volume, and average order value
-- Expand the analysis with additional business questions
-- Document data-driven findings and recommendations
+- Add KPI cards for total revenue, total orders, and average order value
+- Calculate and document key business insights
+- Improve the analysis of sales trends and periods with no recorded sales
 - Recreate the dashboard in Power BI
 - Explore the dataset using SQL and Python
 
 ## Credits
 
-This project was inspired by a tutorial.
+This project was inspired by a YouTube tutorial.
 
-The tutorial provided the starting point for this project. I plan to extend the analysis and improve the dashboard as I continue developing my data analytics skills.
+**Original tutorial:** (https://www.youtube.com/watch?v=m13o5aqeCbM)
+
+The tutorial provided the starting point for this project and helped me practice Excel data analysis and dashboard development.
 
 ## Author
 
-Aspiring Data Analyst interested in Excel, SQL, Python, and data visualization.
+Aspiring Data Analyst building practical projects in Excel, SQL, Python, and data visualization.

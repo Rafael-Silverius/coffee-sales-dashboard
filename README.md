@@ -9,6 +9,8 @@ The dashboard provides a visual overview of sales trends, coffee product perform
 ## Dashboard Preview
 
 <img width="1385" height="640" alt="image" src="https://github.com/user-attachments/assets/e4e4f7da-3166-488e-ba04-3278fa95a8b6" />
+![Coffee Orders Sales Dashboard](screenshots/dashboard.png)
+
 
 ## Dashboard Features
 
@@ -25,6 +27,7 @@ The dashboard provides a visual overview of sales trends, coffee product perform
 - Interactive slicers and filters
 - Excel formulas and lookup functions
 - Sales data analysis
+- KPI calculations
 - Data visualization and dashboard design
 
 ## Business Questions
@@ -66,7 +69,6 @@ Through this project, I practiced:
 
 ## Future Improvements
 
-- Add KPI cards for total revenue, total orders, and average order value
 - Calculate and document key business insights
 - Improve the analysis of sales trends and periods with no recorded sales
 - Recreate the dashboard in Power BI

@@ -24,6 +24,7 @@ The dashboard provides a visual overview of sales trends, coffee product perform
 - Microsoft Excel
 - PivotTables and PivotCharts
 - Interactive slicers and filters
+- XLOOKUP
 - Excel formulas and lookup functions
 - Sales data analysis
 - KPI calculations
@@ -62,6 +63,7 @@ Through this project, I practiced:
 - Creating PivotTables to summarize sales data
 - Building PivotCharts to visualize business metrics
 - Using slicers to create interactive reports
+- Using XLOOKUP to retrieve matching values across tables
 - Applying Excel lookup functions to retrieve product information
 - Organizing dashboard elements into a clear, user-friendly layout
 - Presenting sales data to support business analysis

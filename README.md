@@ -8,7 +8,7 @@ The dashboard provides a visual overview of sales trends, coffee product perform
 
 ## Dashboard Preview
 
-![Coffee Orders Sales Dashboard](/sccreenshots/dashboard.png)
+![Coffee Orders Sales Dashboard](/screenshots/dashboard.png)
 
 
 ## Dashboard Features

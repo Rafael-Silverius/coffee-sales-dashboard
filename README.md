@@ -9,14 +9,14 @@ The dashboard provides a visual overview of sales trends, coffee product perform
 ## 📸 Project Screenshots
 
 ### 📊 Sales Dashboard
-<img src="screenshots/dashboard.png" alt="Sales Dashboard" width="600">
+<img src="screenshots/dashboard.png" alt="Sales Dashboard" width="900">
 
 ### 🏆 Top-Selling Products
-<img src="screenshots/top_selling_prod.png" alt="Top-Selling Products Analysis" width="500">
+<img src="screenshots/top_selling_prod.png" alt="Top-Selling Products Analysis" width="700">
 
 
 ### 📈 Month-over-Month (MoM) Sales Analysis
-<img src="screenshots/mom_analysis.png" alt="Month-over-Month Sales Analysis" width="500">
+<img src="screenshots/mom_analysis.png" alt="Month-over-Month Sales Analysis" width="700">
 
 ## Dashboard Features
 

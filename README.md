@@ -9,7 +9,7 @@ The dashboard provides a visual overview of sales trends, coffee product perform
 ## 📸 Project Screenshots
 
 ### 📊 Sales Dashboard
-![Coffee Orders Sales Dashboard](screenshots/dashboar.png)
+![Coffee Orders Sales Dashboard](screenshots/dashboard.png)
 
 ### 🏆 Top-Selling Products
 ![Top-Selling Products Analysis](screenshots/top_selling_prod.png)

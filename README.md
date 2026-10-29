@@ -6,10 +6,16 @@ An interactive sales dashboard built in Microsoft Excel to analyze coffee shop o
 
 The dashboard provides a visual overview of sales trends, coffee product performance, and order distribution. It uses PivotTables, PivotCharts, and interactive slicers to make it easier to explore the data and identify patterns.
 
-## Dashboard Preview
+## 📸 Project Screenshots
 
-![Coffee Orders Sales Dashboard](/screenshots/dashboard.png)
+### 📊 Sales Dashboard
+![Coffee Orders Sales Dashboard](screenshots/dashboard.png)
 
+### 🏆 Top-Selling Products
+![Top-Selling Products Analysis](screenshots/top_selling_prod.png)
+
+### 📈 Month-over-Month (MoM) Sales Analysis
+![Month-over-Month Sales Analysis](screenshots/mom-analysis.png)
 
 ## Dashboard Features
 
@@ -21,14 +27,16 @@ The dashboard provides a visual overview of sales trends, coffee product perform
 
 ## Tools & Skills
 
-- Microsoft Excel
-- PivotTables and PivotCharts
+- **Microsoft Excel** — Data analysis and PivotTables
+- **Power Query** — Data cleaning and transformation
+- **Power Pivot** — Data modeling and relationships
+- **DAX** — Measures, previous-month sales, and MoM analysis
 - Interactive slicers and filters
 - XLOOKUP
 - Excel formulas and lookup functions
 - Sales data analysis
 - KPI calculations
-- Data visualization and dashboard design
+- **Data Visualization** — Charts for product performance and monthly sales trends
 
 ## Business Questions
 
@@ -40,6 +48,20 @@ This dashboard can help explore questions such as:
 - Are there seasonal patterns in sales?
 - How do different roast types and customer segments affect sales performance?
 - How does sales activity change when filtering by loyalty card status?
+
+## 📊 Sales Analysis & Business Insights
+
+### 🏆 Top-Selling Products
+- Identified and ranked top-selling products based on sales performance.
+- Compared product sales to highlight best-selling items.
+- Used visualizations to communicate product performance and support data-driven decisions.
+
+### 📈 Month-over-Month (MoM) Sales Analysis
+- Analyzed monthly sales trends to identify growth and decline.
+- Created a calendar table to support time-based analysis, including months with no orders.
+- Calculated previous-month sales using DAX time-intelligence functions.
+- Calculated MoM sales change to measure the difference between current-month and previous-month sales.
+- Visualized monthly sales performance to monitor trends over time.
 
 ## Dataset
 
